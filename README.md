@@ -18,6 +18,8 @@ y `perimeter()`, junto con un juego de pruebas completo en JUnit 5.
 - ✅ Ambos cero
 - ❌ Aserción errónea intencionada (para verificar detección de fallos)
 
+
+El proyecto que corresponde a este ejercicio sería el de **"Ejemplo1"**
 ---
 
 ## Práctica 2 — EclEmma: Cobertura de Tests
@@ -27,6 +29,8 @@ Análisis de cobertura del juego de pruebas usando el plugin EclEmma.
 - `Rectangle.java` → **100% de cobertura** ✅
 - `RectangleTest.java` → 97% (el 3% restante corresponde 
 al test erróneo intencionado)
+
+Los archivos que corresponden a este ejercicio son los de **"index" y "Informe EclEmma"**
 
 ---
 
@@ -43,6 +47,8 @@ Análisis estático del código con SonarQube
 | Histórico | No | Sí |
 | Configuración | Mínima | Requiere servidor |
 
+El PDF que corresponde a este ejercicio es el de **"SonarLint - Raúl Beltrán (Ejercicio 3)"**
+
 ---
 
 ## Práctica 4 — Refactorización con Eclipse
@@ -54,12 +60,13 @@ Refactorización del proyecto usando las herramientas built-in de Eclipse.
 - Renombrado: clase `Rectangulo` → `Rectangle`
 - Extracción del método `validateParams()`
 
+El proyecto que corresponde a este ejercicio sería el de **"Ejemplo"**
+
 ---
 
 ## Práctica 5 — Javadoc & README
-- Documentación completa con Javadoc (autor, versión, @param, @return)
+- Documentación completa con Javadoc (autor, versión, @param, @return) --> Correspondiente carpeta **"doc"**
 - Este README redactado en Markdown
-
 
 ---
 
