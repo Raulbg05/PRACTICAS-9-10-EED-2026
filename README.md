@@ -1,4 +1,4 @@
-# Prácticas de Calidad y Documentación de Software
+# PRACTICAS-9-10-EED-2026
 
 ## Descripción
 Repositorio con las 5 prácticas de la asignatura, centradas en
